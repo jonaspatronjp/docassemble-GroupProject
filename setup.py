@@ -45,7 +45,7 @@ def find_package_data(where='.', package='', exclude=standard_exclude, exclude_d
 setup(name='docassemble.GroupProject',
       version='0.0.1',
       description=('A docassemble extension.'),
-      long_description='TLA 6 - Email',
+      long_description='Final Project - source code',
       long_description_content_type='text/markdown',
       author='Chase Stevens',
       author_email='chase3@ualberta.ca',
